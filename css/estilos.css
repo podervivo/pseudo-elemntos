@@ -1,0 +1,24 @@
+body{
+	margin: 20px;
+	font-family: verdana;
+}
+#menu-principal{
+	padding: 10px;
+}
+a[href]{
+	color: green;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+footer{
+	margin-top: 20px;
+	border-top: solid 1px black;
+	padding-top: 10px;
+	text-align: center;
+}
+table{
+	border-collapse: collapse;
+	text-conv
+}
